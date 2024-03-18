@@ -6,6 +6,7 @@ public class Program {
 		System.out.println("Start V0.1");
 
 		System.out.println("Änderung1");
+		System.out.println("Änderung2");
 		
 		
 	}
